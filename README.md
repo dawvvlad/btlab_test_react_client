@@ -1,5 +1,7 @@
 # Код клиентской части для [тестового задания BTLab](https://github.com/dawvvlad/test_btlab)
 
+> [!NOTE]
+> [Серверная часть](https://github.com/dawvvlad/test_btlab)
 
 ### Таблица записей
 Отображает список всех записей с такими полями:
