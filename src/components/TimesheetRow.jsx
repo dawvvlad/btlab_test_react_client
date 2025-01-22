@@ -1,6 +1,6 @@
 import React from 'react';
 import { TableRow, TableCell, Button } from '@mui/material';
-import { formatDate } from '../utils';
+import { formatDate } from '../util.js';
 
 const TimesheetRow = ({ timesheet, onEdit, onDelete }) => (
   <TableRow>
